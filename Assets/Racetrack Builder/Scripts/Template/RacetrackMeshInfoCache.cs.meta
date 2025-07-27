@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 363dd32e91d342c46825c55bd388b3e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Template/RacetrackMeshInfoCache.cs
+  uploadId: 766613

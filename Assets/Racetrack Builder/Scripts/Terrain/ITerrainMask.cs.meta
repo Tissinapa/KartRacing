@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aca707b6e9e80f34890838484f3674a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Terrain/ITerrainMask.cs
+  uploadId: 766613

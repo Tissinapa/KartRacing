@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1971e7fd670b3e34fbf3d822d8efa0f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt
+    tunnel.prefab
+  uploadId: 766613

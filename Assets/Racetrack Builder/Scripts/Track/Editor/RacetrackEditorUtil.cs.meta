@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 242dd3246900050409cbf7e3003d2740
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Track/Editor/RacetrackEditorUtil.cs
+  uploadId: 766613

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d86f57d68d33ea7449e87817d17f0106
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/concrete_painted.mat
+  uploadId: 766613

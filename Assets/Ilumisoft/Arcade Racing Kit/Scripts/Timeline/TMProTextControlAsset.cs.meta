@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfa56c1725173d24fbecff3f52601b00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Scripts/Timeline/TMProTextControlAsset.cs
+  uploadId: 680906

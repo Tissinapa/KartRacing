@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df1e4b87e00f05f4dafc2eca8fa25d1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/simple green.mat
+  uploadId: 766613

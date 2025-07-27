@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e01c652f54dc547448ff7c042b264248
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/Pavement.mat
+  uploadId: 766613

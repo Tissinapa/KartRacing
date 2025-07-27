@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6577d45a2a7536d4886aa7a87997ae7a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt
+    poles barriers.prefab
+  uploadId: 766613

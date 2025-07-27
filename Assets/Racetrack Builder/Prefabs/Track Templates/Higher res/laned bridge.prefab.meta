@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c060d29ffbe171428e8ab58e61c3ce7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/laned bridge.prefab
+  uploadId: 766613

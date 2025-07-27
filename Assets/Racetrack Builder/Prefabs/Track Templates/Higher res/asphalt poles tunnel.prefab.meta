@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39bff09c05f502942952d97b784db64a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt
+    poles tunnel.prefab
+  uploadId: 766613

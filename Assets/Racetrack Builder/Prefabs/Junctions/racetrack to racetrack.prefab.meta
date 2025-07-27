@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ae0235f348383f4fbe697ed7b4ffd02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Junctions/racetrack to racetrack.prefab
+  uploadId: 766613

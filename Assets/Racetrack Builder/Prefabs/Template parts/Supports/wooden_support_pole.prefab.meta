@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e40a8070b96d05418b546585a086547
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Template parts/Supports/wooden_support_pole.prefab
+  uploadId: 766613

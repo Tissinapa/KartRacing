@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dce70c95167e2844da49dc0343f0ebac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Example/Prefabs/Vehicle.prefab
+  uploadId: 680906

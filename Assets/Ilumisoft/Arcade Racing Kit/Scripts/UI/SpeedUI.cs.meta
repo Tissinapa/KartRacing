@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3789c50e32724514a86e977dac9330b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Scripts/UI/SpeedUI.cs
+  uploadId: 680906

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc57abddb1593e9448d6ba3be151cb5b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/stones.prefab
+  uploadId: 766613

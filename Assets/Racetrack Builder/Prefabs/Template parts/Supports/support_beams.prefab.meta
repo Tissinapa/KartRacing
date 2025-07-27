@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43eb14e9e0e398648b665bbbe50022c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Template parts/Supports/support_beams.prefab
+  uploadId: 766613

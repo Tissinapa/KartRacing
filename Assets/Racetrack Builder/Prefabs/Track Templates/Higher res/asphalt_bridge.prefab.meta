@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f7b7fb82c44b9e4a8ee3866a3edf5e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt_bridge.prefab
+  uploadId: 766613

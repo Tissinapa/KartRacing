@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 351a434b74093074eba542810d4f3773
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Scripts/Vehicle/VehiclePhysics.cs
+  uploadId: 680906

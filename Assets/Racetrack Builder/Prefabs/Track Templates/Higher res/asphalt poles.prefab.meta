@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76cced6c7d8c2884cb222f4a8915fa3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt
+    poles.prefab
+  uploadId: 766613

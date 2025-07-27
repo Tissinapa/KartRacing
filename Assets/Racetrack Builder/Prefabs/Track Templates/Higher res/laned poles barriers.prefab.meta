@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 447cf2874d268284f93e445f766306ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/laned poles
+    barriers.prefab
+  uploadId: 766613

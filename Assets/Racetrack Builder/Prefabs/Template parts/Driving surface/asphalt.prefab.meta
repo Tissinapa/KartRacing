@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d9eafeaf89ce2f4daa5872a1841d39a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Template parts/Driving surface/asphalt.prefab
+  uploadId: 766613

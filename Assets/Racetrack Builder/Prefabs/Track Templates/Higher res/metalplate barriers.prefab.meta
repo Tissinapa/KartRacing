@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3739d1a9a8d502349a452f345e5da4be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/metalplate
+    barriers.prefab
+  uploadId: 766613

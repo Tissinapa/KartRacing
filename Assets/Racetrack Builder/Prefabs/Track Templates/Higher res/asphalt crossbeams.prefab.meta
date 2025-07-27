@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53e1f508306c441418597f1719012606
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/asphalt
+    crossbeams.prefab
+  uploadId: 766613

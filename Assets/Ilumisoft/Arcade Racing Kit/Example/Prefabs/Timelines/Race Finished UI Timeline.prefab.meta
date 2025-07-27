@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e3bcbf199ee3904ea3504db26e8d7de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Example/Prefabs/Timelines/Race Finished
+    UI Timeline.prefab
+  uploadId: 680906

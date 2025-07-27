@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e8a275187bac9d42ae213dfae8d5dd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Internal/RacetrackSegment.cs
+  uploadId: 766613

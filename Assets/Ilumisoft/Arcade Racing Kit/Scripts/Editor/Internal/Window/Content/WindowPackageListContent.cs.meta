@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 38587f176f496274ab74905c24c08d79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Scripts/Editor/Internal/Window/Content/WindowPackageListContent.cs
+  uploadId: 680906

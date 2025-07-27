@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3361be1c62a6a8499938013e39223b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/stones.mat
+  uploadId: 766613

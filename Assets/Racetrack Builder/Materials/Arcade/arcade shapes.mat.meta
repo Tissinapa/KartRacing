@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ed4b5dbd3674624eb18f0a7708a2ac7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/Arcade/arcade shapes.mat
+  uploadId: 766613

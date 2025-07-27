@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f981b440cd60174faadc928fa3f09ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/laned poles
+    tunnel.prefab
+  uploadId: 766613

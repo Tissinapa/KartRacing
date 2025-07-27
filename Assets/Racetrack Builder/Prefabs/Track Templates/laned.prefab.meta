@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29cc9b19e8d99d6439d79dc045a55638
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/laned.prefab
+  uploadId: 766613

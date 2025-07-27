@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 425142ce4178fad4d91e32b6e5cb5150
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Track/RacetrackCurveLengthAttribute.cs
+  uploadId: 766613

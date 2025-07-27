@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0515e030ebbb1e147a5e0706afd15306
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/laned barriers.prefab
+  uploadId: 766613

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdbf74ef7b736d649a11ae3144dcda41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/Higher res/metalplate
+    poles.prefab
+  uploadId: 766613

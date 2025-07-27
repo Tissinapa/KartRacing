@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3186913db4d29db4a902edb9c7ffafd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Materials/Steel.mat
+  uploadId: 766613

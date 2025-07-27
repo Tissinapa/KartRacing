@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c06e02ae06fd2b4d9eb2d848a5687a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Scripts/Track/Editor/RacetrackWideningPropertyDrawer.cs
+  uploadId: 766613

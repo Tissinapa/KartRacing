@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61b64cd1bed5f5e4dabd3dcbc4fdd2a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/metalplate.prefab
+  uploadId: 766613

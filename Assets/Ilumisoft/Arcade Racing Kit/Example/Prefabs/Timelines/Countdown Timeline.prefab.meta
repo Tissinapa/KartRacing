@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a95b9d2bb4bf5584691fd6ce33e2c25f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184489
+  packageName: Arcade Racing Kit
+  packageVersion: 1.4
+  assetPath: Assets/Ilumisoft/Arcade Racing Kit/Example/Prefabs/Timelines/Countdown
+    Timeline.prefab
+  uploadId: 680906

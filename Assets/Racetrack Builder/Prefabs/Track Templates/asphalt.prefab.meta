@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c15476213b75b2449bbf9788e4cd503
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138353
+  packageName: Racetrack Builder
+  packageVersion: 1.22.1
+  assetPath: Assets/Racetrack Builder/Prefabs/Track Templates/asphalt.prefab
+  uploadId: 766613
